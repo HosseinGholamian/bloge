@@ -1,0 +1,4 @@
+.pager li a.activepager {
+    background-color: #337ab7 !important;
+    color: white !important;
+}
